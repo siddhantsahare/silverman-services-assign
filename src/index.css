@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  background-color: #313a5a;
+  overflow-x: hidden;
+  position: absolute;
+  font-family: 'Rubik', sans-serif;
+}
+
+code {
+  font-family: 'Menlo', source-code-pro, Menlo, Monaco, Consolas, monospace;
+}
