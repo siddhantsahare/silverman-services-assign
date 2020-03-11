@@ -55,6 +55,20 @@
   z-index: -11;
 }
 
+@media (max-width: 768px) {
+  .home .img-header {
+    width: 0px;
+    height: 0px;
+  }
+}
+
+@media (max-width: 1180px) {
+  .home .img-header {
+    width: 0px;
+    height: 0px;
+  }
+}
+
 /* Header Text */
 
 .header-text {
